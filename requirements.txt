@@ -1,0 +1,39 @@
+# Deep Learning Framework
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Reinforcement Learning
+gymnasium>=0.28.0
+stable-baselines3>=2.0.0
+
+# Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+scipy>=1.10.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Machine Learning Baselines
+xgboost>=1.7.0
+lightgbm>=4.0.0
+
+# Deep Learning Baselines
+tensorflow>=2.12.0  # For VAE, Autoencoder
+
+# Configuration
+pyyaml>=6.0
+hydra-core>=1.3.0
+
+# Utilities
+tqdm>=4.65.0
+joblib>=1.3.0
+tensorboard>=2.13.0
+
+# Evaluation
+imbalanced-learn>=0.10.0
+
+# Optional: GPU Support
+# cupy-cuda12x  # Uncomment if using CUDA 12.x
