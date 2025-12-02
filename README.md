@@ -137,17 +137,7 @@ To properly evaluate zero-day detection, we ensure test attacks are from *differ
 
 **Hardware used**: NVIDIA RTX 3090, 64GB RAM, Intel i9-12900K
 
-## 📖 Citation
 
-```bibtex
-@article{yourname2024zerodaydrl,
-  title={Machine Learning-Based Zero-Day Attack Detection Using Deep Reinforcement Learning},
-  author={Your Name},
-  journal={Information Security Journal},
-  year={2024},
-  doi={10.xxxx/xxxxx}
-}
-```
 
 ## 📄 License
 
@@ -159,4 +149,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📬 Contact
 
-For questions or issues, please open an issue on GitHub or contact [your-email@example.com].
+For questions or issues, please open an issue on GitHub or contact drhussainbinkhalid@outlook.com.
